@@ -26,7 +26,7 @@
 3. **負號請使用 **長破折號（—）**，而不要用連字號（-）。
 4. 如果公式是句子的一部分，請在公式後加上 **逗號或句號**，例如：
 
-![image.png](attachment:97f8af26-3f0c-46a6-b589-6129f1182a5e:image.png)
+<img width="365" height="138" alt="image" src="https://github.com/user-attachments/assets/e875c956-6f37-451a-8ca8-409597df1bcd" />
 
 ## LATEX建議
 
