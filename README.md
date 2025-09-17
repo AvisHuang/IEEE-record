@@ -47,3 +47,17 @@
 1. 圖的標題應放在圖的下方；表格的標頭（table head）**應放在表的上方。
 2. 圖與表應放在**首次被引用之後**
 3. 圖與表應放在欄的上方或下方，避免放在欄的中間。
+
+## 圖表標籤
+
+1.圖表標籤字型：8 點 Times New Roman
+2.軸標籤應使用完整文字，而非符號或縮寫，以避免讀者混淆。
+例：寫 “Magnetization” 或 “Magnetization, M”，而不是單寫 “M”。
+3.若標籤中包含單位，應將單位放在括號內。
+
+## 參考文件
+1. 引用文獻請按出現順序連續編號，並用方括號表示，例如 [1]
+2. 正文中引用只需使用編號，如 [3]
+3. 即使論文已提交出版，也應標註為 “unpublished” 引用，例如  K. Elissa, “Title of paper if known,” unpublished.
+4. 已被接受出版的論文，應標註為 “in press” 引用，例如R. Nicole, “Title of paper with only first word capitalized,” J. Name Stand. Abbrev., in press.
+   
